@@ -10,9 +10,25 @@
   z-index:-1;
 }
 .text{
-  font-size: 0.9vw;
+  font-size: 0.8vw;
   position: absolute;
-  font-family: courier new;
+  font-family: courier;
+}
+.titoli {
+  font-size: 1.5vw;
+  position: absolute;
+  font-family: courier;
+  font-weight: bold;
+  line-height: 1.2;
+}
+#numeroI {
+  margin-left: 3vw;
+  margin-top: 7vw;
+  color: #8416FF;
+}
+#testo0 {
+    margin-top: 3vw;
+    margin-left: 3vw;
 }
 #testo1 {
   margin-left: 45vw;
